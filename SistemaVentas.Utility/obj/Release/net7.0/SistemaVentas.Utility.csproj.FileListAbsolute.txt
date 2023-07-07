@@ -1,0 +1,17 @@
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\bin\Release\net7.0\SistemaVentas.Utility.deps.json
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\bin\Release\net7.0\SistemaVentas.Utility.dll
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\bin\Release\net7.0\SistemaVentas.Utility.pdb
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\bin\Release\net7.0\SistemaVenta.DTO.dll
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\bin\Release\net7.0\SistemaVenta.Model.dll
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\bin\Release\net7.0\SistemaVenta.DTO.pdb
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\bin\Release\net7.0\SistemaVenta.Model.pdb
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\obj\Release\net7.0\SistemaVentas.Utility.csproj.AssemblyReference.cache
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\obj\Release\net7.0\SistemaVentas.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\obj\Release\net7.0\SistemaVentas.Utility.AssemblyInfoInputs.cache
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\obj\Release\net7.0\SistemaVentas.Utility.AssemblyInfo.cs
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\obj\Release\net7.0\SistemaVentas.Utility.csproj.CoreCompileInputs.cache
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\obj\Release\net7.0\SistemaVentas.Utility.csproj.CopyComplete
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\obj\Release\net7.0\SistemaVentas.Utility.dll
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\obj\Release\net7.0\refint\SistemaVentas.Utility.dll
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\obj\Release\net7.0\SistemaVentas.Utility.pdb
+C:\Users\marve\source\repos\Curso sistema de venta angular\APISistemaVenta\SistemaVentas.Utility\obj\Release\net7.0\ref\SistemaVentas.Utility.dll
